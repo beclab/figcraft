@@ -1,0 +1,10 @@
+.git
+.github
+**/target
+**/target-*
+/dist
+/corpus
+/log
+/plan
+/plans
+**/.DS_Store
